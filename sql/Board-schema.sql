@@ -1,5 +1,5 @@
 CREATE DATABASE whiteboarddb;
-USE whitebaorddb;
+USE whiteboarddb;
 
 CREATE TABLE Board (
     board_id INT PRIMARY KEY AUTO_INCREMENT,
