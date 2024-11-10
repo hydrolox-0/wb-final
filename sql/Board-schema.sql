@@ -1,4 +1,4 @@
-CREATE DATAVASE whiteboarddb;
+CREATE DATABASE whiteboarddb;
 USE whitebaorddb;
 
 CREATE TABLE Board (
